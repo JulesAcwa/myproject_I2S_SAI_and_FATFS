@@ -1,0 +1,15 @@
+../Core/Src/main.c:102:6:HAL_SAI_RxHalfCpltCallback	1
+../Core/Src/main.c:110:6:HAL_SAI_RxCpltCallback	1
+../Core/Src/main.c:119:6:floatToSciNotation	5
+../Core/Src/main.c:170:6:myprint	1
+../Core/Src/main.c:183:6:processData	1
+../Core/Src/main.c:207:5:main	9
+../Core/Src/main.c:484:6:SystemClock_Config	4
+../Core/Src/main.c:529:13:MX_I2C1_Init	4
+../Core/Src/main.c:577:13:MX_ICACHE_Init	3
+../Core/Src/main.c:609:13:MX_LPUART1_UART_Init	5
+../Core/Src/main.c:657:13:MX_SAI1_Init	2
+../Core/Src/main.c:692:13:MX_SPI3_Init	2
+../Core/Src/main.c:730:13:MX_DMA_Init	1
+../Core/Src/main.c:749:13:MX_GPIO_Init	1
+../Core/Src/main.c:795:6:Error_Handler	1
